@@ -1,0 +1,3 @@
+
+# Local Streamlit credentials
+.streamlit/secrets.toml

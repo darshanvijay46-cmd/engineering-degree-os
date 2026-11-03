@@ -1,0 +1,5 @@
+event_id,title,event_type,start_date,end_date,semester,academic_year,notes
+EVT101,Semester 4 Mid-Term Internal Assessment 1,Academic,2025-03-25,2025-03-29,Semester 4,2024-2025,Covers Modules 1 and 2 for all subjects
+EVT102,Spring College Break / Festival Leave,Leave/Holiday,2025-04-10,2025-04-14,Semester 4,2024-2025,University campus closed
+EVT103,Semester 4 End-Sem Theory Examinations,Academic,2025-05-18,2025-05-31,Semester 4,2024-2025,University centralized exams
+EVT104,Summer Semester Break,Leave/Holiday,2025-06-01,2025-07-15,Semester 4,2024-2025,Summer internship & break period

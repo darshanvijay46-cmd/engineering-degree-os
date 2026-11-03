@@ -1,0 +1,6 @@
+item_id,category,task,target_date,status,notes
+CHK-01,Academic,Complete Algorithms dynamic programming problem set,2025-03-20,In Progress,Reference: CLRS Chapter 15
+CHK-02,Project,Implement relational schema for DBMS Mini Project,2025-03-28,Not Started,PostgreSQL database & basic queries
+CHK-03,Administrative,Submit Semester 4 Examination Hall Ticket form,2025-04-05,Not Started,Clear library dues first
+CHK-04,Internship,Prepare updated resume for Summer 2025 internships,2025-04-15,Completed,Verified by department placement cell
+CHK-05,Exam,DSA exam,2026-10-29,Completed,

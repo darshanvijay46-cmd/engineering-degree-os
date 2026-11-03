@@ -1,0 +1,5 @@
+semester,course_code,course_title,credits,syllabus_topics,status
+1.0,MA101,Engineering Mathematics I,4.0,Matrices; calculus; differential equations,Completed
+1.0,PH101,Engineering Physics,4.0,Waves; optics; semiconductors,Completed
+3.0,CS301,Data Structures,4.0,Stacks; queues; trees; graphs,In Progress
+3.0,DS302,Java,4.0,Java basics,In Progress
